@@ -1,4 +1,4 @@
-# MiniprojectPython-Automatic question generation system -264836-LTTS
+# MiniprojectPython-Automatic question generation system -264836
 
 The Folowing app uses the Python and Flask to deploy the system.
 The system contains :
