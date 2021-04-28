@@ -20,6 +20,8 @@ The Following system contains the file i/o :
 2.close()
 3.write()
 
+Have not added the database part and storing of the questions
+
 ![image](https://user-images.githubusercontent.com/57611875/116446081-3c85b380-a874-11eb-9783-15cc6d23b248.png)
 ![image](https://user-images.githubusercontent.com/57611875/116446140-4a3b3900-a874-11eb-8c80-309a12bdb8d1.png)
 ![image](https://user-images.githubusercontent.com/57611875/116446256-64751700-a874-11eb-80ee-d11ebfaac163.png)
