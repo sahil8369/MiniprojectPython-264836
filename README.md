@@ -22,8 +22,6 @@ The Following system contains the file i/o :
 
 Have not added the database part and storing of the questions
 
-![image](https://user-images.githubusercontent.com/57611875/116446081-3c85b380-a874-11eb-9783-15cc6d23b248.png)
-![image](https://user-images.githubusercontent.com/57611875/116446140-4a3b3900-a874-11eb-8c80-309a12bdb8d1.png)
-![image](https://user-images.githubusercontent.com/57611875/116446256-64751700-a874-11eb-80ee-d11ebfaac163.png)
-
-
+![image](https://user-images.githubusercontent.com/57611875/116446767-e9f8c700-a874-11eb-97c0-a3039d825d17.png)
+![image](https://user-images.githubusercontent.com/57611875/116446819-f67d1f80-a874-11eb-9e1c-8dc15ff49c3f.png)
+![image](https://user-images.githubusercontent.com/57611875/116446920-11e82a80-a875-11eb-85f2-90da02527e68.png)
